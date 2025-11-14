@@ -1,1 +1,1 @@
-Peningkatan kinerja, lokalisasi metadata
+Peningkatan kinerja dan perbaikan bug kecil

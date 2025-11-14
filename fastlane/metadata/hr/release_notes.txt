@@ -1,1 +1,1 @@
-Poboljšanja performansi, lokalizacija metapodataka
+Poboljšanje performansi i ispravci manjih grešaka

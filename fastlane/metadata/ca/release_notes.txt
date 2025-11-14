@@ -1,1 +1,1 @@
-Millores de rendiment, localització de metadades
+Millora del rendiment i correcció de petits errors
